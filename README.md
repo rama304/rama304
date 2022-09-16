@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @rama304
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+rama304/rama304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Hi hello
+I am Rama chandra rao Rajulapati from Andhra Pradesh.
+I did my graduation Btech mechanical engineering in Sri Vasavi Institute of Engineering and Technology in Nandamuru
