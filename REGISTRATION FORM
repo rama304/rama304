@@ -1,0 +1,27 @@
+<html>
+<head >
+<center>Registration form</center>
+</head>
+<body bg-color="green">
+<form  method="get" action="index1.html">
+First Name:<input type="text"  name="firstname" placeholder="firstname"><br></br>
+Last Name:<input type="text" name="lastname" placeholder="lastname"><br></br>
+User Name:<input type="text" name="username" placeholder="username"><br></br>
+Password:<input type="password" name="password" placeholder="password"><br></br>
+Gender  :<br>
+         <input type="radio" name="gen">male<br>
+         <input type="radio" name="gen">female<br>
+         <input type="radio" name="gen">other<br></br>
+         
+Skils   :<br>
+<input type="checkbox" name="skils">HTML<br>
+         <input type="checkbox" name="skils">CSS<br>
+         <input type="checkbox" name="skils">JAVA SCRIPT<br>
+         <input type="checkbox" name="skils">BOOTSTRAP<br></br>
+DOB     :<input type="date" name="dob"><br></br>
+Upload file  :<input type="file"  name="resume" "value="resume"> <br></br>
+         <input type="submit" value="signup"><br></br>
+         <input type="reset"  value="cancel">
+</form>
+</body>
+</html>
